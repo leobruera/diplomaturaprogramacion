@@ -1,3 +1,5 @@
 frutas
 verduras
 productos de limpieza
+cerveza
+pan
