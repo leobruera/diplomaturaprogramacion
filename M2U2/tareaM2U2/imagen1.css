@@ -1,0 +1,36 @@
+.caja {
+
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    display: inline-flex;
+    flex-direction: column;
+    border-style: solid;
+    align-items: flex-end;
+}
+
+.item {
+    color: white;
+    width: 100px;
+    height: 400px;
+    margin: 0px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.item:nth-child(1) {
+    background-color: red;
+
+}
+
+.item:nth-child(2) {
+    background-color: blue;
+}
+
+.item:nth-child(3) {
+    background-color: green;
+}

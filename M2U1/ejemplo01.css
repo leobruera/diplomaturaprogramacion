@@ -1,0 +1,20 @@
+.caja {
+    width: 600px;
+    height: 300px;
+    background: #1b00ff;
+    background: linear-gradient(90deg, #1b00ff 0%, #006fff 40%, #005fff 80%);
+    background: -webkit-linear-gradient(90deg, #1b00ff 0%, #006fff 40%, #005fff 80%);
+    background: -moz-linear-gradient(90deg, #1b00ff 0%, #006fff 40%, #005fff 80%);
+    margin: 100px;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px 20px 0 60px;
+    box-shadow: 10px 10px 5px black;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule: 1px solid white;
+}
+
+.caja p{
+    margin: 0%;}
